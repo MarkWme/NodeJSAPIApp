@@ -1,0 +1,19 @@
+{
+  "name": "nodejsbrigade",
+  "version": "1.0.0",
+  "description": "Node.js sample application making use of Brigade for CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkWme/NodeJSBrigade.git"
+  },
+  "author": "Mark Whitby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkWme/NodeJSBrigade/issues"
+  },
+  "homepage": "https://github.com/MarkWme/NodeJSBrigade#readme"
+}
